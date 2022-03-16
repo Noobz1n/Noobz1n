@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Olá! Bem vindo(a) ao meu perfil! Meu nome é Victor!</h1>
 
-<!--
-**Noobz1n/Noobz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Noobz1n&theme=dark&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noobz1n&theme=dark"/>
+  <div>
+    <br>
+    <img height="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=148&color=currentColor">
+    <img height="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=currentColor">
+    <img height="33" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
+    <img height="35" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">
+  </div>
+</div>
 
-Here are some ideas to get you started:
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+    <a href="instagram.com/v1c.tor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/victoradriano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
