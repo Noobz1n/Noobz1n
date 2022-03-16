@@ -18,6 +18,16 @@
     <a href="https://instagram.com/_v1c.tor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/victoradriano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- ##
- 
- ![Snake animation](https://github.com/Noobz1n/Noobz1n/blob/output/github-contribution-grid-snake.svg)
+ uses: Platane/snk@master
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # path of the generated gif file
+    # If left empty, the gif file will not be generated
+    gif_out_path: dist/github-snake.gif
+
+    # path of the generated svg file
+    # If left empty, the svg file will not be generated
+    svg_out_path: dist/github-snake.svg
