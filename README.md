@@ -6,7 +6,7 @@
   <li><strong>Nome:</strong> Victor Adriano
   <li><strong>Idade:</strong> 18
   <li><strong>Estudando:</strong> Atualmente estudando às tecnologias do Front-End.
-  <li><strong>Objetivo:</strong> Dominar as ferramentas voltadas para o front-end. Conseguir me tornar um profissional de qualidade, e conseguir meu primeiro emprego como dev na área. 
+  <li><strong>Objetivo:</strong> Dominar as ferramentas voltadas para o front-end. Conseguir me tornar um profissional de qualidade, e conseguir meu primeiro emprego como dev na área, me tornar independente e sair de casa, não aguento mais ouvir reclamação.
  </ul>
  <h3>🛠️ Linguagens: </h3>
  <ul>
