@@ -1,13 +1,14 @@
 <h1 align="center">Olá! Bem vindo(a) ao meu perfil!</h1>
 <div>
- <h3>🧑🏻 Info: </h2>
+ <h3>🧑🏻 Sobre mim: </h2>
  <ul>
   <li><strong>Nome:</strong> Victor Adriano
   <li><strong>Idade:</strong> 18
-  <li><strong>Localização:</strong> Maceió, Brasil.
-  <li><strong>Dev:</strong> Front-end
+  <li><strong>Estudando:</strong> Atualmente estudando às tecnologias do Front-End.
+  <li><strong>Objetivo:</strong> Dominar as ferramentas voltadas para o front-end. Conseguir me tornar um profissional de qualidade, e conseguir meu primeiro emprego como dev na área. 
   
   
+##
  </ul>
 </div>
 
