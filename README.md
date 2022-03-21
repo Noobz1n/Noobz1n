@@ -2,6 +2,7 @@
 <div>
  <h3>🧑🏻 Sobre mim: </h2>
  <ul>
+  <img src="https://user-images.githubusercontent.com/67431024/159360246-dc065562-a5c3-4635-9193-494cb31b9f69.svg" height="180px" display="inline-block" align="right"></img>
   <li><strong>Nome:</strong> Victor Adriano
   <li><strong>Idade:</strong> 18
   <li><strong>Estudando:</strong> Atualmente estudando às tecnologias do Front-End.
