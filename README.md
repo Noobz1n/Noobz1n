@@ -14,6 +14,7 @@
    <li>HTML5
    <li>CSS3
    <li>JavaScript
+   <li>Python
    <li>C++
     
 </div>
