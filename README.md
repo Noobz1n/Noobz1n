@@ -9,14 +9,6 @@
   <li><strong>Estudando:</strong> Atualmente estudando às tecnologias do Backend.
   <li><strong>Objetivo:</strong> Dominar as ferramentas voltadas para o back-end. Conseguir me tornar um profissional de qualidade, conseguir meu primeiro emprego como dev na área.
  </ul>
- <h3>🛠️ Linguagens: </h3>
- <ul>
-   <li>HTML5
-   <li>CSS3
-   <li>JavaScript
-   <li>Python
-   <li>C++
-    
 </div>
 
 ##
